@@ -54,6 +54,61 @@ properties:
       xs1NajqV/tkWVaPncz71oMJinYjHk4NAss9sWVOUHN/W6Op0T0bv9a50LO4E7UhM ddIUjb0CgYEA4nwChYKkyMl4XAcKCG+9Yl+zeRxvx20jzj6aOfCB0KFmFqa8JxKw
       2GvW/13D9S/AdTKMAVkOvB5Zc7yEqgynf1F9MTDpcknjuaWt35+M/KH9bctHt4cF 6lwxF5s95Ys86+hWZrk9U0FN1eBD8mWyvK0eJJ/51is5pmIjUrH4SxY=
       -----END RSA PRIVATE KEY-----'
+    master_ssh_private_key2: '-----BEGIN RSA PRIVATE KEY-----
+
+      MIIEpQIBAAKCAQEAv7g9J65+TqEWlh6GiGsYEvisc0u7P4MShgqP3Kn5Esr/H3xb
+
+      RQh6bLCuWkJUNoWFCVo9mQn/I0UBxam4+yAAFyjBuT7GErXqtQ+4x50H2biz97bd
+
+      MDZK4mTFmeMzb6juMgZjVAHlicfifBUpY27I9WuECOf/oTQPj4y5L1WeL6+khPM8
+
+      +FDCFLatth/KXNmnuXEcMIfFQE4Wr7bqx/cOyXndyOvZwocoHOWBfNtmEALLcY6Y
+
+      Wa4MgkhDM3RfONNIAel48NqA6qtAHvfiD7GZcywUiCcMMw2ZaTfIaAzHWBvWoAUc
+
+      4FnmECZo1w64uFTu3niCcF8SIOR3xc4tCpIv7wIDAQABAoIBAQCEZK1OntA4akOX
+
+      rULIJ/R6/WDRScXn6RK8n8SS5InM8YPWcWDxvhYUwrnUOKPA9tlVCQ0qht26tGex
+
+      4S+Ns558X7fPvcq4lwmauV2n8we90S/ua0g5h/SUfHR8fYpCnIzI3OJw29JwICmF
+
+      +HMZaCK8X9/Q6qz73GC2h75GMsDHOjYLUtsvu1BqP/+j/Jv99eaOOdpcn0M4uHqs
+
+      Yr4NHhyU6bq8SrVsR6B6s4bFBlEc8+X3/3QU0vn/lzyat80m43EkeQf+ONYu3/Ye
+
+      msavJrx0FxS4ASgffbwZA700j5a3htPw8XOhfFJViamfiUs/ORk0LLdbEXRq3pfi
+
+      ylzNxHxRAoGBAP1kvLR3U/omwGoIh1fzT45kFuru0fuHUVrGeZDr6qgZoUZ5qILx
+
+      9AkrDSZ7AVgEhUczLY2obgIuq6ympgXQedTcbkUsNgojgM4YlymzGFftQvVQbf3H
+
+      N2J88PKWhrO7W4cUV+G+/3QLRnLThf+eGGPSWsWgYusCkTC3JPa0+Bp5AoGBAMGx
+
+      GHz71ZMJi/pP8wgVDaa1KrgSsGXscPOz5sB83TuJ0KmaVyIUF2VScr/Q1NJdzJck
+
+      lSk8gl7VL4oT1+dpiLAQCUJPTaCh96BvGUagDRC/Umon1ZCWPUS83ThMQXu6Cyfv
+
+      EPhjfBSYgBkT7WT96AgInX0NepA6LaJnPGvlVYOnAoGBAJG0vIH1X/enEtul/dWI
+
+      FoYlbbw4Cczd+dz95ed8kRmKa19wE4MAiDhBZjVrY9FuAAl6F0auxFtC5PrJdQxA
+
+      3d2Vx17FVmmsEqPwJfQXhPcCeo8/aZAVXvamK5MDFYACS1Y4T3SC9LeQyDi9Av+C
+
+      tDmqOwILAPZsKnrdxUaLt2LZAoGAWHTyhBHW5gHUJYrhqO1EgL/4NHyEhufGZeXh
+
+      GkNsHcbAvtQ3ut6GGMXgle1fZHtl9hjE7kIuH/UoctzBG3Q88ntAX0IsZ5HQrzpN
+
+      xs1NajqV/tkWVaPncz71oMJinYjHk4NAss9sWVOUHN/W6Op0T0bv9a50LO4E7UhM
+
+      ddIUjb0CgYEA4nwChYKkyMl4XAcKCG+9Yl+zeRxvx20jzj6aOfCB0KFmFqa8JxKw
+
+      2GvW/13D9S/AdTKMAVkOvB5Zc7yEqgynf1F9MTDpcknjuaWt35+M/KH9bctHt4cF
+
+      6lwxF5s95Ys86+hWZrk9U0FN1eBD8mWyvK0eJJ/51is5pmIjUrH4SxY=
+
+      -----END RSA PRIVATE KEY-----
+
+'
     master_ssh_pub_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/uD0nrn5OoRaWHoaIaxgS+KxzS7s/gxKGCo/cqfkSyv8ffFtFCHpssK5aQlQ2hYUJWj2ZCf8jRQHFqbj7IAAXKMG5PsYSteq1D7jHnQfZuLP3tt0wNkriZMWZ4zNvqO4yBmNUAeWJx+J8FSljbsj1a4QI5/+hNA+PjLkvVZ4vr6SE8zz4UMIUtq22H8pc2ae5cRwwh8VAThavturH9w7Jed3I69nChygc5YF822YQAstxjphZrgyCSEMzdF8400gB6Xjw2oDqq0Ae9+IPsZlzLBSIJwwzDZlpN8hoDMdYG9agBRzgWeYQJmjXDri4VO7eeIJwXxIg5HfFzi0Kki/v
       test@cloudbees
   test: space between values
