@@ -1,0 +1,1 @@
+spiff merge template.yml cf-stub-diff.yml 
